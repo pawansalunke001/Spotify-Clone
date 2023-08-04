@@ -543,13 +543,6 @@ th {
     height: auto;
 }
 
-#playlistGrid .playlist-card .title {
-    /* Add some styling for the title here */
-}
-
-#playlistGrid .playlist-card .creator {
-    /* Add some styling for the creator here */
-}
 
 #playlistDetail {
     padding: 20px;
@@ -567,10 +560,6 @@ th {
     width: 200px;
     height: 200px;
     object-fit: cover;
-}
-
-#playlistDetail .header .info {
-    /* Add some styling for the playlist title, description, and other info here */
 }
 
 #playlistDetail .tracklist {
@@ -602,15 +591,6 @@ th {
     height: auto;
 }
 
-#browseSection .genreCard .title {
-    /* Add some styling for the title here */
-}
-
-
-
-
-
-
 
 .dropdownMenu {
     position: absolute;
@@ -632,10 +612,6 @@ th {
     padding-left: 2800px;
     height: 80px;
     color: #000;
-}
-
-.bottom-menu{
-    display: none;
 }
 
 
